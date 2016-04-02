@@ -1,0 +1,70 @@
+body{
+	font-family: verdana;
+	font-size:10px;	
+}
+
+.mytextarea{
+	width:400px;
+	height:200px;
+	
+}
+
+.dataTable{
+	font-size:10px;
+}
+
+.navSpace{
+	width:20px;
+	
+}
+.navTitle{
+
+}
+.navLink{
+	width:100px;
+	border:1px solid black;
+	border-bottom:none;
+	padding:5px;
+	text-align:center;
+}
+.navLink:hover{
+	background-color:#aaa;
+}
+.nav{
+	border-bottom:1px solid black;
+	font-size:10px;
+	
+}
+.dataHeader{
+	border-left: 1px #aaa solid;
+	padding:5px;
+}
+.dataTextCol{
+	border-left: #999 solid 1px;
+	border-top: #999 solid 1px;
+}
+#ok{
+	margin-top:8px;
+	border: 2px dotted green;
+	color: #3A3;
+	width:600px;
+	padding:10px;
+}
+#info{
+	margin-top:8px;
+	border: 2px dotted blue;
+	color: #33A;
+	width:600px;
+	padding:10px;
+}
+#error{
+	margin-top:8px;
+	border: 2px dotted red;
+	color: #A33;
+	width:600px;
+	padding:10px;
+}
+.text {
+font-family:verdana;
+font-size:10px;
+}

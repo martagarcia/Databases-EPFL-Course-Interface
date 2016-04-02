@@ -1,0 +1,6 @@
+AuthUserFile C:\epfl\www\ftp\interface\.htpasswd
+AuthName "EPFL: Accès sécurisé"
+AuthType Basic
+<LIMIT GET POST>
+	Require valid-user
+</LIMIT>
